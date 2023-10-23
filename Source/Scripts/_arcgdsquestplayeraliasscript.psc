@@ -1,0 +1,7 @@
+ScriptName _arcGDSQuestPlayerAliasScript Extends ReferenceAlias
+
+_arcGDSQuestScript Property _arcGuardianDraugrSceneQuest Auto
+
+Event OnPlayerLoadGame()
+	_arcGuardianDraugrSceneQuest.OnLoadGame()
+EndEvent

@@ -1,0 +1,7 @@
+ScriptName _arcGTSQuestScript Extends _arcGuardianQuestScript
+
+ObjectReference Property GuardianMarker01Ref Auto Hidden
+ObjectReference Property GuardianMarker02Ref Auto Hidden
+ObjectReference Property GuardianMarker03Ref Auto Hidden
+ObjectReference Property GuardianMarker04Ref Auto Hidden
+ObjectReference Property GuardianMarker05Ref Auto Hidden

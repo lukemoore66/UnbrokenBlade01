@@ -1,0 +1,3 @@
+ScriptName _arcForcePersistentRefScript Extends ObjectReference
+
+ObjectReference Property PersistentRef Auto
