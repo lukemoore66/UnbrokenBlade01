@@ -1,4 +1,4 @@
-# The Unbroken Blade: Part 1 (Script Repo)
+# The Unbroken Blade: Part 1 (Script Repository)
 
 [Papyrus](https://www.creationkit.com/index.php?title=Category:Papyrus) source code for [The Unbroken Blade: Part 1](https://www.nexusmods.com/skyrimspecialedition/mods/80571), including the relevant `.esp` file and dialogue view files.
 
